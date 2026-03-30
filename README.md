@@ -1,4 +1,4 @@
-Hi, my name is Tiffany Thurman (she/her). I am CS student at Purdue University.
+Hi, this is Tiffany's github!
 
 <!--
 **tiffthurm/tiffthurm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
